@@ -89,7 +89,7 @@ margin-bottom: 10px;
 .drink-container{
 display: flex;
     justify-content: space-around;
-width: 30%;
+width: 40%;
 
 color: blue;
 /* text-align: center; */
@@ -109,7 +109,7 @@ display: flex;
 justify-content: space-evenly;
 }
 .Pastries {
-width: 30%; 
+width: 40%; 
 }
 .link{
 text-decoration: none;
